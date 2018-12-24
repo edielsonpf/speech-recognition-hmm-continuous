@@ -1,0 +1,183 @@
+Isolated word recognition using Continuous HMM. It is considered full covariance matrix.
+Algorithm used for recognition: Forward 
+Number of models: 1  
+Model name 1: ./test/models/models.txt
+Weighting coefficient of model 1:1.00
+Date and time: 16-Jan-2012 21:11:54 
+
+
+Spoken word: vc_186_f_03_ap_0225
+
+Results: 
+Spoken word: vc_186_f_03_ap_0225
+Correct words: 1
+Errors: 0
+Percentagen correct : 100.00%
+Second candidate: 0
+Average recognition time: 0.03 sec. 
+Average word length: 151 frames 
+
+Spoken word: vc_200_f_02_ap_015
+
+Results: 
+Spoken word: vc_200_f_02_ap_015
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 1
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.05 sec. 
+Average word length: 176 frames 
+
+Spoken word: vc_200_f_02_ap_030
+
+Results: 
+Spoken word: vc_200_f_02_ap_030
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.05 sec. 
+Average word length: 173 frames 
+
+Spoken word: vc_200_f_04_ap_015
+
+Results: 
+Spoken word: vc_200_f_04_ap_015
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.03 sec. 
+Average word length: 135 frames 
+
+Spoken word: vc_200_f_04_ap_030
+
+Results: 
+Spoken word: vc_200_f_04_ap_030
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.03 sec. 
+Average word length: 128 frames 
+
+Spoken word: vc_220_f_013_ap_0225
+
+Results: 
+Spoken word: vc_220_f_013_ap_0225
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.05 sec. 
+Average word length: 213 frames 
+
+Spoken word: vc_220_f_03_ap_010
+
+Results: 
+Spoken word: vc_220_f_03_ap_010
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.03 sec. 
+Average word length: 109 frames 
+
+Spoken word: vc_220_f_047_ap_0225
+
+Results: 
+Spoken word: vc_220_f_047_ap_0225
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.02 sec. 
+Average word length: 132 frames 
+
+Spoken word: vc_240_f_02_ap_015
+
+Results: 
+Spoken word: vc_240_f_02_ap_015
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.05 sec. 
+Average word length: 157 frames 
+
+Spoken word: vc_240_f_02_ap_030
+
+Results: 
+Spoken word: vc_240_f_02_ap_030
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.03 sec. 
+Average word length: 162 frames 
+
+Spoken word: vc_240_f_04_ap_015
+
+Results: 
+Spoken word: vc_240_f_04_ap_015
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.02 sec. 
+Average word length: 109 frames 
+
+Spoken word: vc_240_f_04_ap_030
+
+Results: 
+Spoken word: vc_240_f_04_ap_030
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.03 sec. 
+Average word length: 103 frames 
+
+Spoken word: vc_254_f_03_ap_0225
+
+Results: 
+Spoken word: vc_254_f_03_ap_0225
+Correct words: 0
+Errors: 1
+Percentagen correct : 0.00%
+Second candidate: 0
+Wrong words: 
+vc_186_f_03_ap_0225: 1 time
+Average recognition time: 0.02 sec. 
+Average word length: 109 frames 
+
+Considering all the words: 
+Results: 
+Correct words: 1
+Errors: 12
+Percentagen correct : 7.69%
+Second candidate: 1
+Average recognition time: 0.03 sec. 
+Average word length: 142 frames 

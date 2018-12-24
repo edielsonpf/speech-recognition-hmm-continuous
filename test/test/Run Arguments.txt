@@ -1,0 +1,8 @@
+1
+./test/models/models.txt
+1
+./test/perfil_data/mean_list.txt
+./test/words.txt
+./test/result/hmm-result.txt
+
+1 models.txt 1 mean_list.txt words.txt hmm-result.txt

@@ -1,0 +1,14 @@
+Continuous HMM created using Forward Backward algorithm. It is considered full covariance matrix. It is considered a final state.
+model file: ./test/result/mean_vc_220_f_013_ap_0225.hmm 
+word: vc_220_f_013_ap_0225 
+number of states: 6 
+number of parameters: 1 
+number of mixtures 1: 1 
+parameter 1: ./test/parameters.txt 
+threshould to finish training: 0.001000 
+number of exemplars in training sequence: 1 
+mean probability: -8420.334517 
+number of iterations: 5 
+starting time: 09-Nov-2011 20:50:01 
+ending time: 09-Nov-2011 20:50:01 
+cpu time: 00 00:00:00 
